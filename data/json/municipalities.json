@@ -1,0 +1,2165 @@
+[
+    {
+        "id": "005",
+        "fi": "Alaj\u00e4rvi",
+        "sv": "Alaj\u00e4rvi",
+        "en": "Alaj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "009",
+        "fi": "Alavieska",
+        "sv": "Alavieska",
+        "en": "Alavieska",
+        "valid": true
+    },
+    {
+        "id": "010",
+        "fi": "Alavus",
+        "sv": "Alavus",
+        "en": "Alavus",
+        "valid": true
+    },
+    {
+        "id": "016",
+        "fi": "Asikkala",
+        "sv": "Asikkala",
+        "en": "Asikkala",
+        "valid": true
+    },
+    {
+        "id": "018",
+        "fi": "Askola",
+        "sv": "Askola",
+        "en": "Askola",
+        "valid": true
+    },
+    {
+        "id": "019",
+        "fi": "Aura",
+        "sv": "Aura",
+        "en": "Aura",
+        "valid": true
+    },
+    {
+        "id": "020",
+        "fi": "Akaa",
+        "sv": "Akaa",
+        "en": "Akaa",
+        "valid": true
+    },
+    {
+        "id": "035",
+        "fi": "Br\u00e4nd\u00f6",
+        "sv": "Br\u00e4nd\u00f6",
+        "en": "Br\u00e4nd\u00f6",
+        "valid": true
+    },
+    {
+        "id": "043",
+        "fi": "Ecker\u00f6",
+        "sv": "Ecker\u00f6",
+        "en": "Ecker\u00f6",
+        "valid": true
+    },
+    {
+        "id": "046",
+        "fi": "Enonkoski",
+        "sv": "Enonkoski",
+        "en": "Enonkoski",
+        "valid": true
+    },
+    {
+        "id": "047",
+        "fi": "Enonteki\u00f6",
+        "sv": "Enontekis",
+        "en": "Enonteki\u00f6",
+        "valid": true
+    },
+    {
+        "id": "049",
+        "fi": "Espoo",
+        "sv": "Esbo",
+        "en": "Espoo",
+        "valid": true
+    },
+    {
+        "id": "050",
+        "fi": "Eura",
+        "sv": "Eura",
+        "en": "Eura",
+        "valid": true
+    },
+    {
+        "id": "051",
+        "fi": "Eurajoki",
+        "sv": "Eura\u00e5minne",
+        "en": "Eurajoki",
+        "valid": true
+    },
+    {
+        "id": "052",
+        "fi": "Evij\u00e4rvi",
+        "sv": "Evij\u00e4rvi",
+        "en": "Evij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "060",
+        "fi": "Finstr\u00f6m",
+        "sv": "Finstr\u00f6m",
+        "en": "Finstr\u00f6m",
+        "valid": true
+    },
+    {
+        "id": "061",
+        "fi": "Forssa",
+        "sv": "Forssa",
+        "en": "Forssa",
+        "valid": true
+    },
+    {
+        "id": "062",
+        "fi": "F\u00f6gl\u00f6",
+        "sv": "F\u00f6gl\u00f6",
+        "en": "F\u00f6gl\u00f6",
+        "valid": true
+    },
+    {
+        "id": "065",
+        "fi": "Geta",
+        "sv": "Geta",
+        "en": "Geta",
+        "valid": true
+    },
+    {
+        "id": "069",
+        "fi": "Haapaj\u00e4rvi",
+        "sv": "Haapaj\u00e4rvi",
+        "en": "Haapaj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "071",
+        "fi": "Haapavesi",
+        "sv": "Haapavesi",
+        "en": "Haapavesi",
+        "valid": true
+    },
+    {
+        "id": "072",
+        "fi": "Hailuoto",
+        "sv": "Karl\u00f6",
+        "en": "Hailuoto",
+        "valid": true
+    },
+    {
+        "id": "074",
+        "fi": "Halsua",
+        "sv": "Halsua",
+        "en": "Halsua",
+        "valid": true
+    },
+    {
+        "id": "075",
+        "fi": "Hamina",
+        "sv": "Fredrikshamn",
+        "en": "Hamina",
+        "valid": true
+    },
+    {
+        "id": "076",
+        "fi": "Hammarland",
+        "sv": "Hammarland",
+        "en": "Hammarland",
+        "valid": true
+    },
+    {
+        "id": "077",
+        "fi": "Hankasalmi",
+        "sv": "Hankasalmi",
+        "en": "Hankasalmi",
+        "valid": true
+    },
+    {
+        "id": "078",
+        "fi": "Hanko",
+        "sv": "Hang\u00f6",
+        "en": "Hanko",
+        "valid": true
+    },
+    {
+        "id": "079",
+        "fi": "Harjavalta",
+        "sv": "Harjavalta",
+        "en": "Harjavalta",
+        "valid": true
+    },
+    {
+        "id": "081",
+        "fi": "Hartola",
+        "sv": "Hartola",
+        "en": "Hartola",
+        "valid": true
+    },
+    {
+        "id": "082",
+        "fi": "Hattula",
+        "sv": "Hattula",
+        "en": "Hattula",
+        "valid": true
+    },
+    {
+        "id": "086",
+        "fi": "Hausj\u00e4rvi",
+        "sv": "Hausj\u00e4rvi",
+        "en": "Hausj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "090",
+        "fi": "Hein\u00e4vesi",
+        "sv": "Hein\u00e4vesi",
+        "en": "Hein\u00e4vesi",
+        "valid": true
+    },
+    {
+        "id": "091",
+        "fi": "Helsinki",
+        "sv": "Helsingfors",
+        "en": "Helsinki",
+        "valid": true
+    },
+    {
+        "id": "092",
+        "fi": "Vantaa",
+        "sv": "Vanda",
+        "en": "Vantaa",
+        "valid": true
+    },
+    {
+        "id": "097",
+        "fi": "Hirvensalmi",
+        "sv": "Hirvensalmi",
+        "en": "Hirvensalmi",
+        "valid": true
+    },
+    {
+        "id": "098",
+        "fi": "Hollola",
+        "sv": "Hollola",
+        "en": "Hollola",
+        "valid": true
+    },
+    {
+        "id": "102",
+        "fi": "Huittinen",
+        "sv": "Huittinen",
+        "en": "Huittinen",
+        "valid": true
+    },
+    {
+        "id": "103",
+        "fi": "Humppila",
+        "sv": "Humppila",
+        "en": "Humppila",
+        "valid": true
+    },
+    {
+        "id": "105",
+        "fi": "Hyrynsalmi",
+        "sv": "Hyrynsalmi",
+        "en": "Hyrynsalmi",
+        "valid": true
+    },
+    {
+        "id": "106",
+        "fi": "Hyvink\u00e4\u00e4",
+        "sv": "Hyvinge",
+        "en": "Hyvink\u00e4\u00e4",
+        "valid": true
+    },
+    {
+        "id": "108",
+        "fi": "H\u00e4meenkyr\u00f6",
+        "sv": "Tavastkyro",
+        "en": "H\u00e4meenkyr\u00f6",
+        "valid": true
+    },
+    {
+        "id": "109",
+        "fi": "H\u00e4meenlinna",
+        "sv": "Tavastehus",
+        "en": "H\u00e4meenlinna",
+        "valid": true
+    },
+    {
+        "id": "111",
+        "fi": "Heinola",
+        "sv": "Heinola",
+        "en": "Heinola",
+        "valid": true
+    },
+    {
+        "id": "139",
+        "fi": "Ii",
+        "sv": "Ii",
+        "en": "Ii",
+        "valid": true
+    },
+    {
+        "id": "140",
+        "fi": "Iisalmi",
+        "sv": "Idensalmi",
+        "en": "Iisalmi",
+        "valid": true
+    },
+    {
+        "id": "142",
+        "fi": "Iitti",
+        "sv": "Iitti",
+        "en": "Iitti",
+        "valid": true
+    },
+    {
+        "id": "143",
+        "fi": "Ikaalinen",
+        "sv": "Ikalis",
+        "en": "Ikaalinen",
+        "valid": true
+    },
+    {
+        "id": "145",
+        "fi": "Ilmajoki",
+        "sv": "Ilmajoki",
+        "en": "Ilmajoki",
+        "valid": true
+    },
+    {
+        "id": "146",
+        "fi": "Ilomantsi",
+        "sv": "Ilomants",
+        "en": "Ilomantsi",
+        "valid": true
+    },
+    {
+        "id": "148",
+        "fi": "Inari",
+        "sv": "Enare",
+        "en": "Inari",
+        "valid": true
+    },
+    {
+        "id": "149",
+        "fi": "Inkoo",
+        "sv": "Ing\u00e5",
+        "en": "Ing\u00e5",
+        "valid": true
+    },
+    {
+        "id": "151",
+        "fi": "Isojoki",
+        "sv": "Stor\u00e5",
+        "en": "Isojoki",
+        "valid": true
+    },
+    {
+        "id": "152",
+        "fi": "Isokyr\u00f6",
+        "sv": "Storkyro",
+        "en": "Isokyr\u00f6",
+        "valid": true
+    },
+    {
+        "id": "153",
+        "fi": "Imatra",
+        "sv": "Imatra",
+        "en": "Imatra",
+        "valid": true
+    },
+    {
+        "id": "165",
+        "fi": "Janakkala",
+        "sv": "Janakkala",
+        "en": "Janakkala",
+        "valid": true
+    },
+    {
+        "id": "167",
+        "fi": "Joensuu",
+        "sv": "Joensuu",
+        "en": "Joensuu",
+        "valid": true
+    },
+    {
+        "id": "169",
+        "fi": "Jokioinen",
+        "sv": "Jockis",
+        "en": "Jokioinen",
+        "valid": true
+    },
+    {
+        "id": "170",
+        "fi": "Jomala",
+        "sv": "Jomala",
+        "en": "Jomala",
+        "valid": true
+    },
+    {
+        "id": "171",
+        "fi": "Joroinen",
+        "sv": "Jorois",
+        "en": "Joroinen",
+        "valid": true
+    },
+    {
+        "id": "172",
+        "fi": "Joutsa",
+        "sv": "Joutsa",
+        "en": "Joutsa",
+        "valid": true
+    },
+    {
+        "id": "176",
+        "fi": "Juuka",
+        "sv": "Juuka",
+        "en": "Juuka",
+        "valid": true
+    },
+    {
+        "id": "177",
+        "fi": "Juupajoki",
+        "sv": "Juupajoki",
+        "en": "Juupajoki",
+        "valid": true
+    },
+    {
+        "id": "178",
+        "fi": "Juva",
+        "sv": "Juva",
+        "en": "Juva",
+        "valid": true
+    },
+    {
+        "id": "179",
+        "fi": "Jyv\u00e4skyl\u00e4",
+        "sv": "Jyv\u00e4skyl\u00e4",
+        "en": "Jyv\u00e4skyl\u00e4",
+        "valid": true
+    },
+    {
+        "id": "181",
+        "fi": "J\u00e4mij\u00e4rvi",
+        "sv": "J\u00e4mij\u00e4rvi",
+        "en": "J\u00e4mij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "182",
+        "fi": "J\u00e4ms\u00e4",
+        "sv": "J\u00e4ms\u00e4",
+        "en": "J\u00e4ms\u00e4",
+        "valid": true
+    },
+    {
+        "id": "186",
+        "fi": "J\u00e4rvenp\u00e4\u00e4",
+        "sv": "Tr\u00e4sk\u00e4nda",
+        "en": "J\u00e4rvenp\u00e4\u00e4",
+        "valid": true
+    },
+    {
+        "id": "202",
+        "fi": "Kaarina",
+        "sv": "St Karins",
+        "en": "Kaarina",
+        "valid": true
+    },
+    {
+        "id": "204",
+        "fi": "Kaavi",
+        "sv": "Kaavi",
+        "en": "Kaavi",
+        "valid": true
+    },
+    {
+        "id": "205",
+        "fi": "Kajaani",
+        "sv": "Kajana",
+        "en": "Kajaani",
+        "valid": true
+    },
+    {
+        "id": "208",
+        "fi": "Kalajoki",
+        "sv": "Kalajoki",
+        "en": "Kalajoki",
+        "valid": true
+    },
+    {
+        "id": "211",
+        "fi": "Kangasala",
+        "sv": "Kangasala",
+        "en": "Kangasala",
+        "valid": true
+    },
+    {
+        "id": "213",
+        "fi": "Kangasniemi",
+        "sv": "Kangasniemi",
+        "en": "Kangasniemi",
+        "valid": true
+    },
+    {
+        "id": "214",
+        "fi": "Kankaanp\u00e4\u00e4",
+        "sv": "Kankaanp\u00e4\u00e4",
+        "en": "Kankaanp\u00e4\u00e4",
+        "valid": true
+    },
+    {
+        "id": "216",
+        "fi": "Kannonkoski",
+        "sv": "Kannonkoski",
+        "en": "Kannonkoski",
+        "valid": true
+    },
+    {
+        "id": "217",
+        "fi": "Kannus",
+        "sv": "Kannus",
+        "en": "Kannus",
+        "valid": true
+    },
+    {
+        "id": "218",
+        "fi": "Karijoki",
+        "sv": "B\u00f6tom",
+        "en": "Karijoki",
+        "valid": true
+    },
+    {
+        "id": "224",
+        "fi": "Karkkila",
+        "sv": "H\u00f6gfors",
+        "en": "Karkkila",
+        "valid": true
+    },
+    {
+        "id": "226",
+        "fi": "Karstula",
+        "sv": "Karstula",
+        "en": "Karstula",
+        "valid": true
+    },
+    {
+        "id": "230",
+        "fi": "Karvia",
+        "sv": "Karvia",
+        "en": "Karvia",
+        "valid": true
+    },
+    {
+        "id": "231",
+        "fi": "Kaskinen",
+        "sv": "Kask\u00f6",
+        "en": "Kaskinen",
+        "valid": true
+    },
+    {
+        "id": "232",
+        "fi": "Kauhajoki",
+        "sv": "Kauhajoki",
+        "en": "Kauhajoki",
+        "valid": true
+    },
+    {
+        "id": "233",
+        "fi": "Kauhava",
+        "sv": "Kauhava",
+        "en": "Kauhava",
+        "valid": true
+    },
+    {
+        "id": "235",
+        "fi": "Kauniainen",
+        "sv": "Grankulla",
+        "en": "Kauniainen",
+        "valid": true
+    },
+    {
+        "id": "236",
+        "fi": "Kaustinen",
+        "sv": "Kaustby",
+        "en": "Kaustinen",
+        "valid": true
+    },
+    {
+        "id": "239",
+        "fi": "Keitele",
+        "sv": "Keitele",
+        "en": "Keitele",
+        "valid": true
+    },
+    {
+        "id": "240",
+        "fi": "Kemi",
+        "sv": "Kemi",
+        "en": "Kemi",
+        "valid": true
+    },
+    {
+        "id": "241",
+        "fi": "Keminmaa",
+        "sv": "Keminmaa",
+        "en": "Keminmaa",
+        "valid": true
+    },
+    {
+        "id": "244",
+        "fi": "Kempele",
+        "sv": "Kempele",
+        "en": "Kempele",
+        "valid": true
+    },
+    {
+        "id": "245",
+        "fi": "Kerava",
+        "sv": "Kervo",
+        "en": "Kerava",
+        "valid": true
+    },
+    {
+        "id": "249",
+        "fi": "Keuruu",
+        "sv": "Keuruu",
+        "en": "Keuruu",
+        "valid": true
+    },
+    {
+        "id": "250",
+        "fi": "Kihni\u00f6",
+        "sv": "Kihni\u00f6",
+        "en": "Kihni\u00f6",
+        "valid": true
+    },
+    {
+        "id": "256",
+        "fi": "Kinnula",
+        "sv": "Kinnula",
+        "en": "Kinnula",
+        "valid": true
+    },
+    {
+        "id": "257",
+        "fi": "Kirkkonummi",
+        "sv": "Kyrksl\u00e4tt",
+        "en": "Kirkkonummi",
+        "valid": true
+    },
+    {
+        "id": "260",
+        "fi": "Kitee",
+        "sv": "Kitee",
+        "en": "Kitee",
+        "valid": true
+    },
+    {
+        "id": "261",
+        "fi": "Kittil\u00e4",
+        "sv": "Kittil\u00e4",
+        "en": "Kittil\u00e4",
+        "valid": true
+    },
+    {
+        "id": "263",
+        "fi": "Kiuruvesi",
+        "sv": "Kiuruvesi",
+        "en": "Kiuruvesi",
+        "valid": true
+    },
+    {
+        "id": "265",
+        "fi": "Kivij\u00e4rvi",
+        "sv": "Kivij\u00e4rvi",
+        "en": "Kivij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "271",
+        "fi": "Kokem\u00e4ki",
+        "sv": "Kumo",
+        "en": "Kokem\u00e4ki",
+        "valid": true
+    },
+    {
+        "id": "272",
+        "fi": "Kokkola",
+        "sv": "Karleby",
+        "en": "Kokkola",
+        "valid": true
+    },
+    {
+        "id": "273",
+        "fi": "Kolari",
+        "sv": "Kolari",
+        "en": "Kolari",
+        "valid": true
+    },
+    {
+        "id": "275",
+        "fi": "Konnevesi",
+        "sv": "Konnevesi",
+        "en": "Konnevesi",
+        "valid": true
+    },
+    {
+        "id": "276",
+        "fi": "Kontiolahti",
+        "sv": "Kontiolahti",
+        "en": "Kontiolahti",
+        "valid": true
+    },
+    {
+        "id": "280",
+        "fi": "Korsn\u00e4s",
+        "sv": "Korsn\u00e4s",
+        "en": "Korsn\u00e4s",
+        "valid": true
+    },
+    {
+        "id": "284",
+        "fi": "Koski Tl",
+        "sv": "Koski Tl",
+        "en": "Koski Tl",
+        "valid": true
+    },
+    {
+        "id": "285",
+        "fi": "Kotka",
+        "sv": "Kotka",
+        "en": "Kotka",
+        "valid": true
+    },
+    {
+        "id": "286",
+        "fi": "Kouvola",
+        "sv": "Kouvola",
+        "en": "Kouvola",
+        "valid": true
+    },
+    {
+        "id": "287",
+        "fi": "Kristiinankaupunki",
+        "sv": "Kristinestad",
+        "en": "Kristinestad",
+        "valid": true
+    },
+    {
+        "id": "288",
+        "fi": "Kruunupyy",
+        "sv": "Kronoby",
+        "en": "Kronoby",
+        "valid": true
+    },
+    {
+        "id": "290",
+        "fi": "Kuhmo",
+        "sv": "Kuhmo",
+        "en": "Kuhmo",
+        "valid": true
+    },
+    {
+        "id": "291",
+        "fi": "Kuhmoinen",
+        "sv": "Kuhmoinen",
+        "en": "Kuhmoinen",
+        "valid": true
+    },
+    {
+        "id": "295",
+        "fi": "Kumlinge",
+        "sv": "Kumlinge",
+        "en": "Kumlinge",
+        "valid": true
+    },
+    {
+        "id": "297",
+        "fi": "Kuopio",
+        "sv": "Kuopio",
+        "en": "Kuopio",
+        "valid": true
+    },
+    {
+        "id": "300",
+        "fi": "Kuortane",
+        "sv": "Kuortane",
+        "en": "Kuortane",
+        "valid": true
+    },
+    {
+        "id": "301",
+        "fi": "Kurikka",
+        "sv": "Kurikka",
+        "en": "Kurikka",
+        "valid": true
+    },
+    {
+        "id": "304",
+        "fi": "Kustavi",
+        "sv": "Gustavs",
+        "en": "Kustavi",
+        "valid": true
+    },
+    {
+        "id": "305",
+        "fi": "Kuusamo",
+        "sv": "Kuusamo",
+        "en": "Kuusamo",
+        "valid": true
+    },
+    {
+        "id": "309",
+        "fi": "Outokumpu",
+        "sv": "Outokumpu",
+        "en": "Outokumpu",
+        "valid": true
+    },
+    {
+        "id": "312",
+        "fi": "Kyyj\u00e4rvi",
+        "sv": "Kyyj\u00e4rvi",
+        "en": "Kyyj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "316",
+        "fi": "K\u00e4rk\u00f6l\u00e4",
+        "sv": "K\u00e4rk\u00f6l\u00e4",
+        "en": "K\u00e4rk\u00f6l\u00e4",
+        "valid": true
+    },
+    {
+        "id": "317",
+        "fi": "K\u00e4rs\u00e4m\u00e4ki",
+        "sv": "K\u00e4rs\u00e4m\u00e4ki",
+        "en": "K\u00e4rs\u00e4m\u00e4ki",
+        "valid": true
+    },
+    {
+        "id": "318",
+        "fi": "K\u00f6kar",
+        "sv": "K\u00f6kar",
+        "en": "K\u00f6kar",
+        "valid": true
+    },
+    {
+        "id": "320",
+        "fi": "Kemij\u00e4rvi",
+        "sv": "Kemij\u00e4rvi",
+        "en": "Kemij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "322",
+        "fi": "Kemi\u00f6nsaari",
+        "sv": "Kimito\u00f6n",
+        "en": "Kimito\u00f6n",
+        "valid": true
+    },
+    {
+        "id": "398",
+        "fi": "Lahti",
+        "sv": "Lahtis",
+        "en": "Lahti",
+        "valid": true
+    },
+    {
+        "id": "399",
+        "fi": "Laihia",
+        "sv": "Laihela",
+        "en": "Laihia",
+        "valid": true
+    },
+    {
+        "id": "400",
+        "fi": "Laitila",
+        "sv": "Laitila",
+        "en": "Laitila",
+        "valid": true
+    },
+    {
+        "id": "402",
+        "fi": "Lapinlahti",
+        "sv": "Lapinlahti",
+        "en": "Lapinlahti",
+        "valid": true
+    },
+    {
+        "id": "403",
+        "fi": "Lappaj\u00e4rvi",
+        "sv": "Lappaj\u00e4rvi",
+        "en": "Lappaj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "405",
+        "fi": "Lappeenranta",
+        "sv": "Villmanstrand",
+        "en": "Lappeenranta",
+        "valid": true
+    },
+    {
+        "id": "407",
+        "fi": "Lapinj\u00e4rvi",
+        "sv": "Lapptr\u00e4sk",
+        "en": "Lapinj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "408",
+        "fi": "Lapua",
+        "sv": "Lappo",
+        "en": "Lapua",
+        "valid": true
+    },
+    {
+        "id": "410",
+        "fi": "Laukaa",
+        "sv": "Laukaa",
+        "en": "Laukaa",
+        "valid": true
+    },
+    {
+        "id": "416",
+        "fi": "Lemi",
+        "sv": "Lemi",
+        "en": "Lemi",
+        "valid": true
+    },
+    {
+        "id": "417",
+        "fi": "Lemland",
+        "sv": "Lemland",
+        "en": "Lemland",
+        "valid": true
+    },
+    {
+        "id": "418",
+        "fi": "Lemp\u00e4\u00e4l\u00e4",
+        "sv": "Lemp\u00e4\u00e4l\u00e4",
+        "en": "Lemp\u00e4\u00e4l\u00e4",
+        "valid": true
+    },
+    {
+        "id": "420",
+        "fi": "Lepp\u00e4virta",
+        "sv": "Lepp\u00e4virta",
+        "en": "Lepp\u00e4virta",
+        "valid": true
+    },
+    {
+        "id": "421",
+        "fi": "Lestij\u00e4rvi",
+        "sv": "Lestij\u00e4rvi",
+        "en": "Lestij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "422",
+        "fi": "Lieksa",
+        "sv": "Lieksa",
+        "en": "Lieksa",
+        "valid": true
+    },
+    {
+        "id": "423",
+        "fi": "Lieto",
+        "sv": "Lundo",
+        "en": "Lieto",
+        "valid": true
+    },
+    {
+        "id": "425",
+        "fi": "Liminka",
+        "sv": "Limingo",
+        "en": "Liminka",
+        "valid": true
+    },
+    {
+        "id": "426",
+        "fi": "Liperi",
+        "sv": "Liperi",
+        "en": "Liperi",
+        "valid": true
+    },
+    {
+        "id": "430",
+        "fi": "Loimaa",
+        "sv": "Loimaa",
+        "en": "Loimaa",
+        "valid": true
+    },
+    {
+        "id": "433",
+        "fi": "Loppi",
+        "sv": "Loppi",
+        "en": "Loppi",
+        "valid": true
+    },
+    {
+        "id": "434",
+        "fi": "Loviisa",
+        "sv": "Lovisa",
+        "en": "Loviisa",
+        "valid": true
+    },
+    {
+        "id": "435",
+        "fi": "Luhanka",
+        "sv": "Luhanka",
+        "en": "Luhanka",
+        "valid": true
+    },
+    {
+        "id": "436",
+        "fi": "Lumijoki",
+        "sv": "Lumijoki",
+        "en": "Lumijoki",
+        "valid": true
+    },
+    {
+        "id": "438",
+        "fi": "Lumparland",
+        "sv": "Lumparland",
+        "en": "Lumparland",
+        "valid": true
+    },
+    {
+        "id": "440",
+        "fi": "Luoto",
+        "sv": "Larsmo",
+        "en": "Larsmo",
+        "valid": true
+    },
+    {
+        "id": "441",
+        "fi": "Luum\u00e4ki",
+        "sv": "Luum\u00e4ki",
+        "en": "Luum\u00e4ki",
+        "valid": true
+    },
+    {
+        "id": "444",
+        "fi": "Lohja",
+        "sv": "Lojo",
+        "en": "Lohja",
+        "valid": true
+    },
+    {
+        "id": "445",
+        "fi": "Parainen",
+        "sv": "Pargas",
+        "en": "Pargas",
+        "valid": true
+    },
+    {
+        "id": "475",
+        "fi": "Maalahti",
+        "sv": "Malax",
+        "en": "Malax",
+        "valid": true
+    },
+    {
+        "id": "478",
+        "fi": "Maarianhamina",
+        "sv": "Mariehamn",
+        "en": "Mariehamn",
+        "valid": true
+    },
+    {
+        "id": "480",
+        "fi": "Marttila",
+        "sv": "Marttila",
+        "en": "Marttila",
+        "valid": true
+    },
+    {
+        "id": "481",
+        "fi": "Masku",
+        "sv": "Masku",
+        "en": "Masku",
+        "valid": true
+    },
+    {
+        "id": "483",
+        "fi": "Merij\u00e4rvi",
+        "sv": "Merij\u00e4rvi",
+        "en": "Merij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "484",
+        "fi": "Merikarvia",
+        "sv": "Sastmola",
+        "en": "Merikarvia",
+        "valid": true
+    },
+    {
+        "id": "489",
+        "fi": "Miehikk\u00e4l\u00e4",
+        "sv": "Miehikk\u00e4l\u00e4",
+        "en": "Miehikk\u00e4l\u00e4",
+        "valid": true
+    },
+    {
+        "id": "491",
+        "fi": "Mikkeli",
+        "sv": "S:t Michel",
+        "en": "Mikkeli",
+        "valid": true
+    },
+    {
+        "id": "494",
+        "fi": "Muhos",
+        "sv": "Muhos",
+        "en": "Muhos",
+        "valid": true
+    },
+    {
+        "id": "495",
+        "fi": "Multia",
+        "sv": "Multia",
+        "en": "Multia",
+        "valid": true
+    },
+    {
+        "id": "498",
+        "fi": "Muonio",
+        "sv": "Muonio",
+        "en": "Muonio",
+        "valid": true
+    },
+    {
+        "id": "499",
+        "fi": "Mustasaari",
+        "sv": "Korsholm",
+        "en": "Korsholm",
+        "valid": true
+    },
+    {
+        "id": "500",
+        "fi": "Muurame",
+        "sv": "Muurame",
+        "en": "Muurame",
+        "valid": true
+    },
+    {
+        "id": "503",
+        "fi": "Myn\u00e4m\u00e4ki",
+        "sv": "Myn\u00e4m\u00e4ki",
+        "en": "Myn\u00e4m\u00e4ki",
+        "valid": true
+    },
+    {
+        "id": "504",
+        "fi": "Myrskyl\u00e4",
+        "sv": "M\u00f6rskom",
+        "en": "Myrskyl\u00e4",
+        "valid": true
+    },
+    {
+        "id": "505",
+        "fi": "M\u00e4nts\u00e4l\u00e4",
+        "sv": "M\u00e4nts\u00e4l\u00e4",
+        "en": "M\u00e4nts\u00e4l\u00e4",
+        "valid": true
+    },
+    {
+        "id": "507",
+        "fi": "M\u00e4ntyharju",
+        "sv": "M\u00e4ntyharju",
+        "en": "M\u00e4ntyharju",
+        "valid": true
+    },
+    {
+        "id": "508",
+        "fi": "M\u00e4ntt\u00e4-Vilppula",
+        "sv": "M\u00e4ntt\u00e4-Vilppula",
+        "en": "M\u00e4ntt\u00e4-Vilppula",
+        "valid": true
+    },
+    {
+        "id": "529",
+        "fi": "Naantali",
+        "sv": "N\u00e5dendal",
+        "en": "Naantali",
+        "valid": true
+    },
+    {
+        "id": "531",
+        "fi": "Nakkila",
+        "sv": "Nakkila",
+        "en": "Nakkila",
+        "valid": true
+    },
+    {
+        "id": "535",
+        "fi": "Nivala",
+        "sv": "Nivala",
+        "en": "Nivala",
+        "valid": true
+    },
+    {
+        "id": "536",
+        "fi": "Nokia",
+        "sv": "Nokia",
+        "en": "Nokia",
+        "valid": true
+    },
+    {
+        "id": "538",
+        "fi": "Nousiainen",
+        "sv": "Nousis",
+        "en": "Nousiainen",
+        "valid": true
+    },
+    {
+        "id": "541",
+        "fi": "Nurmes",
+        "sv": "Nurmes",
+        "en": "Nurmes",
+        "valid": true
+    },
+    {
+        "id": "543",
+        "fi": "Nurmij\u00e4rvi",
+        "sv": "Nurmij\u00e4rvi",
+        "en": "Nurmij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "545",
+        "fi": "N\u00e4rpi\u00f6",
+        "sv": "N\u00e4rpes",
+        "en": "N\u00e4rpes",
+        "valid": true
+    },
+    {
+        "id": "560",
+        "fi": "Orimattila",
+        "sv": "Orimattila",
+        "en": "Orimattila",
+        "valid": true
+    },
+    {
+        "id": "561",
+        "fi": "Orip\u00e4\u00e4",
+        "sv": "Orip\u00e4\u00e4",
+        "en": "Orip\u00e4\u00e4",
+        "valid": true
+    },
+    {
+        "id": "562",
+        "fi": "Orivesi",
+        "sv": "Orivesi",
+        "en": "Orivesi",
+        "valid": true
+    },
+    {
+        "id": "563",
+        "fi": "Oulainen",
+        "sv": "Oulainen",
+        "en": "Oulainen",
+        "valid": true
+    },
+    {
+        "id": "564",
+        "fi": "Oulu",
+        "sv": "Ule\u00e5borg",
+        "en": "Oulu",
+        "valid": true
+    },
+    {
+        "id": "576",
+        "fi": "Padasjoki",
+        "sv": "Padasjoki",
+        "en": "Padasjoki",
+        "valid": true
+    },
+    {
+        "id": "577",
+        "fi": "Paimio",
+        "sv": "Pemar",
+        "en": "Paimio",
+        "valid": true
+    },
+    {
+        "id": "578",
+        "fi": "Paltamo",
+        "sv": "Paltamo",
+        "en": "Paltamo",
+        "valid": true
+    },
+    {
+        "id": "580",
+        "fi": "Parikkala",
+        "sv": "Parikkala",
+        "en": "Parikkala",
+        "valid": true
+    },
+    {
+        "id": "581",
+        "fi": "Parkano",
+        "sv": "Parkano",
+        "en": "Parkano",
+        "valid": true
+    },
+    {
+        "id": "583",
+        "fi": "Pelkosenniemi",
+        "sv": "Pelkosenniemi",
+        "en": "Pelkosenniemi",
+        "valid": true
+    },
+    {
+        "id": "584",
+        "fi": "Perho",
+        "sv": "Perho",
+        "en": "Perho",
+        "valid": true
+    },
+    {
+        "id": "588",
+        "fi": "Pertunmaa",
+        "sv": "Pertunmaa",
+        "en": "Pertunmaa",
+        "valid": true
+    },
+    {
+        "id": "592",
+        "fi": "Pet\u00e4j\u00e4vesi",
+        "sv": "Pet\u00e4j\u00e4vesi",
+        "en": "Pet\u00e4j\u00e4vesi",
+        "valid": true
+    },
+    {
+        "id": "593",
+        "fi": "Pieks\u00e4m\u00e4ki",
+        "sv": "Pieks\u00e4m\u00e4ki",
+        "en": "Pieks\u00e4m\u00e4ki",
+        "valid": true
+    },
+    {
+        "id": "595",
+        "fi": "Pielavesi",
+        "sv": "Pielavesi",
+        "en": "Pielavesi",
+        "valid": true
+    },
+    {
+        "id": "598",
+        "fi": "Pietarsaari",
+        "sv": "Jakobstad",
+        "en": "Jakobstad",
+        "valid": true
+    },
+    {
+        "id": "599",
+        "fi": "Peders\u00f6ren kunta",
+        "sv": "Peders\u00f6re",
+        "en": "Peders\u00f6re",
+        "valid": true
+    },
+    {
+        "id": "601",
+        "fi": "Pihtipudas",
+        "sv": "Pihtipudas",
+        "en": "Pihtipudas",
+        "valid": true
+    },
+    {
+        "id": "604",
+        "fi": "Pirkkala",
+        "sv": "Birkala",
+        "en": "Pirkkala",
+        "valid": true
+    },
+    {
+        "id": "607",
+        "fi": "Polvij\u00e4rvi",
+        "sv": "Polvij\u00e4rvi",
+        "en": "Polvij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "608",
+        "fi": "Pomarkku",
+        "sv": "P\u00e5mark",
+        "en": "Pomarkku",
+        "valid": true
+    },
+    {
+        "id": "609",
+        "fi": "Pori",
+        "sv": "Bj\u00f6rneborg",
+        "en": "Pori",
+        "valid": true
+    },
+    {
+        "id": "611",
+        "fi": "Pornainen",
+        "sv": "Borgn\u00e4s",
+        "en": "Pornainen",
+        "valid": true
+    },
+    {
+        "id": "614",
+        "fi": "Posio",
+        "sv": "Posio",
+        "en": "Posio",
+        "valid": true
+    },
+    {
+        "id": "615",
+        "fi": "Pudasj\u00e4rvi",
+        "sv": "Pudasj\u00e4rvi",
+        "en": "Pudasj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "616",
+        "fi": "Pukkila",
+        "sv": "Pukkila",
+        "en": "Pukkila",
+        "valid": true
+    },
+    {
+        "id": "619",
+        "fi": "Punkalaidun",
+        "sv": "Punkalaidun",
+        "en": "Punkalaidun",
+        "valid": true
+    },
+    {
+        "id": "620",
+        "fi": "Puolanka",
+        "sv": "Puolanka",
+        "en": "Puolanka",
+        "valid": true
+    },
+    {
+        "id": "623",
+        "fi": "Puumala",
+        "sv": "Puumala",
+        "en": "Puumala",
+        "valid": true
+    },
+    {
+        "id": "624",
+        "fi": "Pyht\u00e4\u00e4",
+        "sv": "Pyttis",
+        "en": "Pyht\u00e4\u00e4",
+        "valid": true
+    },
+    {
+        "id": "625",
+        "fi": "Pyh\u00e4joki",
+        "sv": "Pyh\u00e4joki",
+        "en": "Pyh\u00e4joki",
+        "valid": true
+    },
+    {
+        "id": "626",
+        "fi": "Pyh\u00e4j\u00e4rvi",
+        "sv": "Pyh\u00e4j\u00e4rvi",
+        "en": "Pyh\u00e4j\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "630",
+        "fi": "Pyh\u00e4nt\u00e4",
+        "sv": "Pyh\u00e4nt\u00e4",
+        "en": "Pyh\u00e4nt\u00e4",
+        "valid": true
+    },
+    {
+        "id": "631",
+        "fi": "Pyh\u00e4ranta",
+        "sv": "Pyh\u00e4ranta",
+        "en": "Pyh\u00e4ranta",
+        "valid": true
+    },
+    {
+        "id": "635",
+        "fi": "P\u00e4lk\u00e4ne",
+        "sv": "P\u00e4lk\u00e4ne",
+        "en": "P\u00e4lk\u00e4ne",
+        "valid": true
+    },
+    {
+        "id": "636",
+        "fi": "P\u00f6yty\u00e4",
+        "sv": "P\u00f6yty\u00e4",
+        "en": "P\u00f6yty\u00e4",
+        "valid": true
+    },
+    {
+        "id": "638",
+        "fi": "Porvoo",
+        "sv": "Borg\u00e5",
+        "en": "Porvoo",
+        "valid": true
+    },
+    {
+        "id": "678",
+        "fi": "Raahe",
+        "sv": "Brahestad",
+        "en": "Raahe",
+        "valid": true
+    },
+    {
+        "id": "680",
+        "fi": "Raisio",
+        "sv": "Reso",
+        "en": "Raisio",
+        "valid": true
+    },
+    {
+        "id": "681",
+        "fi": "Rantasalmi",
+        "sv": "Rantasalmi",
+        "en": "Rantasalmi",
+        "valid": true
+    },
+    {
+        "id": "683",
+        "fi": "Ranua",
+        "sv": "Ranua",
+        "en": "Ranua",
+        "valid": true
+    },
+    {
+        "id": "684",
+        "fi": "Rauma",
+        "sv": "Raumo",
+        "en": "Rauma",
+        "valid": true
+    },
+    {
+        "id": "686",
+        "fi": "Rautalampi",
+        "sv": "Rautalampi",
+        "en": "Rautalampi",
+        "valid": true
+    },
+    {
+        "id": "687",
+        "fi": "Rautavaara",
+        "sv": "Rautavaara",
+        "en": "Rautavaara",
+        "valid": true
+    },
+    {
+        "id": "689",
+        "fi": "Rautj\u00e4rvi",
+        "sv": "Rautj\u00e4rvi",
+        "en": "Rautj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "691",
+        "fi": "Reisj\u00e4rvi",
+        "sv": "Reisj\u00e4rvi",
+        "en": "Reisj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "694",
+        "fi": "Riihim\u00e4ki",
+        "sv": "Riihim\u00e4ki",
+        "en": "Riihim\u00e4ki",
+        "valid": true
+    },
+    {
+        "id": "697",
+        "fi": "Ristij\u00e4rvi",
+        "sv": "Ristij\u00e4rvi",
+        "en": "Ristij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "698",
+        "fi": "Rovaniemi",
+        "sv": "Rovaniemi",
+        "en": "Rovaniemi",
+        "valid": true
+    },
+    {
+        "id": "700",
+        "fi": "Ruokolahti",
+        "sv": "Ruokolahti",
+        "en": "Ruokolahti",
+        "valid": true
+    },
+    {
+        "id": "702",
+        "fi": "Ruovesi",
+        "sv": "Ruovesi",
+        "en": "Ruovesi",
+        "valid": true
+    },
+    {
+        "id": "704",
+        "fi": "Rusko",
+        "sv": "Rusko",
+        "en": "Rusko",
+        "valid": true
+    },
+    {
+        "id": "707",
+        "fi": "R\u00e4\u00e4kkyl\u00e4",
+        "sv": "R\u00e4\u00e4kkyl\u00e4",
+        "en": "R\u00e4\u00e4kkyl\u00e4",
+        "valid": true
+    },
+    {
+        "id": "710",
+        "fi": "Raasepori",
+        "sv": "Raseborg",
+        "en": "Raseborg",
+        "valid": true
+    },
+    {
+        "id": "729",
+        "fi": "Saarij\u00e4rvi",
+        "sv": "Saarij\u00e4rvi",
+        "en": "Saarij\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "732",
+        "fi": "Salla",
+        "sv": "Salla",
+        "en": "Salla",
+        "valid": true
+    },
+    {
+        "id": "734",
+        "fi": "Salo",
+        "sv": "Salo",
+        "en": "Salo",
+        "valid": true
+    },
+    {
+        "id": "736",
+        "fi": "Saltvik",
+        "sv": "Saltvik",
+        "en": "Saltvik",
+        "valid": true
+    },
+    {
+        "id": "738",
+        "fi": "Sauvo",
+        "sv": "Sagu",
+        "en": "Sauvo",
+        "valid": true
+    },
+    {
+        "id": "739",
+        "fi": "Savitaipale",
+        "sv": "Savitaipale",
+        "en": "Savitaipale",
+        "valid": true
+    },
+    {
+        "id": "740",
+        "fi": "Savonlinna",
+        "sv": "Nyslott",
+        "en": "Savonlinna",
+        "valid": true
+    },
+    {
+        "id": "742",
+        "fi": "Savukoski",
+        "sv": "Savukoski",
+        "en": "Savukoski",
+        "valid": true
+    },
+    {
+        "id": "743",
+        "fi": "Sein\u00e4joki",
+        "sv": "Sein\u00e4joki",
+        "en": "Sein\u00e4joki",
+        "valid": true
+    },
+    {
+        "id": "746",
+        "fi": "Sievi",
+        "sv": "Sievi",
+        "en": "Sievi",
+        "valid": true
+    },
+    {
+        "id": "747",
+        "fi": "Siikainen",
+        "sv": "Siikainen",
+        "en": "Siikainen",
+        "valid": true
+    },
+    {
+        "id": "748",
+        "fi": "Siikajoki",
+        "sv": "Siikajoki",
+        "en": "Siikajoki",
+        "valid": true
+    },
+    {
+        "id": "749",
+        "fi": "Siilinj\u00e4rvi",
+        "sv": "Siilinj\u00e4rvi",
+        "en": "Siilinj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "751",
+        "fi": "Simo",
+        "sv": "Simo",
+        "en": "Simo",
+        "valid": true
+    },
+    {
+        "id": "753",
+        "fi": "Sipoo",
+        "sv": "Sibbo",
+        "en": "Sipoo",
+        "valid": true
+    },
+    {
+        "id": "755",
+        "fi": "Siuntio",
+        "sv": "Sjunde\u00e5",
+        "en": "Siuntio",
+        "valid": true
+    },
+    {
+        "id": "758",
+        "fi": "Sodankyl\u00e4",
+        "sv": "Sodankyl\u00e4",
+        "en": "Sodankyl\u00e4",
+        "valid": true
+    },
+    {
+        "id": "759",
+        "fi": "Soini",
+        "sv": "Soini",
+        "en": "Soini",
+        "valid": true
+    },
+    {
+        "id": "761",
+        "fi": "Somero",
+        "sv": "Somero",
+        "en": "Somero",
+        "valid": true
+    },
+    {
+        "id": "762",
+        "fi": "Sonkaj\u00e4rvi",
+        "sv": "Sonkaj\u00e4rvi",
+        "en": "Sonkaj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "765",
+        "fi": "Sotkamo",
+        "sv": "Sotkamo",
+        "en": "Sotkamo",
+        "valid": true
+    },
+    {
+        "id": "766",
+        "fi": "Sottunga",
+        "sv": "Sottunga",
+        "en": "Sottunga",
+        "valid": true
+    },
+    {
+        "id": "768",
+        "fi": "Sulkava",
+        "sv": "Sulkava",
+        "en": "Sulkava",
+        "valid": true
+    },
+    {
+        "id": "771",
+        "fi": "Sund",
+        "sv": "Sund",
+        "en": "Sund",
+        "valid": true
+    },
+    {
+        "id": "777",
+        "fi": "Suomussalmi",
+        "sv": "Suomussalmi",
+        "en": "Suomussalmi",
+        "valid": true
+    },
+    {
+        "id": "778",
+        "fi": "Suonenjoki",
+        "sv": "Suonenjoki",
+        "en": "Suonenjoki",
+        "valid": true
+    },
+    {
+        "id": "781",
+        "fi": "Sysm\u00e4",
+        "sv": "Sysm\u00e4",
+        "en": "Sysm\u00e4",
+        "valid": true
+    },
+    {
+        "id": "783",
+        "fi": "S\u00e4kyl\u00e4",
+        "sv": "S\u00e4kyl\u00e4",
+        "en": "S\u00e4kyl\u00e4",
+        "valid": true
+    },
+    {
+        "id": "785",
+        "fi": "Vaala",
+        "sv": "Vaala",
+        "en": "Vaala",
+        "valid": true
+    },
+    {
+        "id": "790",
+        "fi": "Sastamala",
+        "sv": "Sastamala",
+        "en": "Sastamala",
+        "valid": true
+    },
+    {
+        "id": "791",
+        "fi": "Siikalatva",
+        "sv": "Siikalatva",
+        "en": "Siikalatva",
+        "valid": true
+    },
+    {
+        "id": "831",
+        "fi": "Taipalsaari",
+        "sv": "Taipalsaari",
+        "en": "Taipalsaari",
+        "valid": true
+    },
+    {
+        "id": "832",
+        "fi": "Taivalkoski",
+        "sv": "Taivalkoski",
+        "en": "Taivalkoski",
+        "valid": true
+    },
+    {
+        "id": "833",
+        "fi": "Taivassalo",
+        "sv": "T\u00f6vsala",
+        "en": "Taivassalo",
+        "valid": true
+    },
+    {
+        "id": "834",
+        "fi": "Tammela",
+        "sv": "Tammela",
+        "en": "Tammela",
+        "valid": true
+    },
+    {
+        "id": "837",
+        "fi": "Tampere",
+        "sv": "Tammerfors",
+        "en": "Tampere",
+        "valid": true
+    },
+    {
+        "id": "844",
+        "fi": "Tervo",
+        "sv": "Tervo",
+        "en": "Tervo",
+        "valid": true
+    },
+    {
+        "id": "845",
+        "fi": "Tervola",
+        "sv": "Tervola",
+        "en": "Tervola",
+        "valid": true
+    },
+    {
+        "id": "846",
+        "fi": "Teuva",
+        "sv": "\u00d6stermark",
+        "en": "Teuva",
+        "valid": true
+    },
+    {
+        "id": "848",
+        "fi": "Tohmaj\u00e4rvi",
+        "sv": "Tohmaj\u00e4rvi",
+        "en": "Tohmaj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "849",
+        "fi": "Toholampi",
+        "sv": "Toholampi",
+        "en": "Toholampi",
+        "valid": true
+    },
+    {
+        "id": "850",
+        "fi": "Toivakka",
+        "sv": "Toivakka",
+        "en": "Toivakka",
+        "valid": true
+    },
+    {
+        "id": "851",
+        "fi": "Tornio",
+        "sv": "Torne\u00e5",
+        "en": "Tornio",
+        "valid": true
+    },
+    {
+        "id": "853",
+        "fi": "Turku",
+        "sv": "\u00c5bo",
+        "en": "Turku",
+        "valid": true
+    },
+    {
+        "id": "854",
+        "fi": "Pello",
+        "sv": "Pello",
+        "en": "Pello",
+        "valid": true
+    },
+    {
+        "id": "857",
+        "fi": "Tuusniemi",
+        "sv": "Tuusniemi",
+        "en": "Tuusniemi",
+        "valid": true
+    },
+    {
+        "id": "858",
+        "fi": "Tuusula",
+        "sv": "Tusby",
+        "en": "Tuusula",
+        "valid": true
+    },
+    {
+        "id": "859",
+        "fi": "Tyrn\u00e4v\u00e4",
+        "sv": "Tyrn\u00e4v\u00e4",
+        "en": "Tyrn\u00e4v\u00e4",
+        "valid": true
+    },
+    {
+        "id": "886",
+        "fi": "Ulvila",
+        "sv": "Ulvsby",
+        "en": "Ulvila",
+        "valid": true
+    },
+    {
+        "id": "887",
+        "fi": "Urjala",
+        "sv": "Urjala",
+        "en": "Urjala",
+        "valid": true
+    },
+    {
+        "id": "889",
+        "fi": "Utaj\u00e4rvi",
+        "sv": "Utaj\u00e4rvi",
+        "en": "Utaj\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "890",
+        "fi": "Utsjoki",
+        "sv": "Utsjoki",
+        "en": "Utsjoki",
+        "valid": true
+    },
+    {
+        "id": "892",
+        "fi": "Uurainen",
+        "sv": "Uurainen",
+        "en": "Uurainen",
+        "valid": true
+    },
+    {
+        "id": "893",
+        "fi": "Uusikaarlepyy",
+        "sv": "Nykarleby",
+        "en": "Nykarleby",
+        "valid": true
+    },
+    {
+        "id": "895",
+        "fi": "Uusikaupunki",
+        "sv": "Nystad",
+        "en": "Uusikaupunki",
+        "valid": true
+    },
+    {
+        "id": "905",
+        "fi": "Vaasa",
+        "sv": "Vasa",
+        "en": "Vaasa",
+        "valid": true
+    },
+    {
+        "id": "908",
+        "fi": "Valkeakoski",
+        "sv": "Valkeakoski",
+        "en": "Valkeakoski",
+        "valid": true
+    },
+    {
+        "id": "915",
+        "fi": "Varkaus",
+        "sv": "Varkaus",
+        "en": "Varkaus",
+        "valid": true
+    },
+    {
+        "id": "918",
+        "fi": "Vehmaa",
+        "sv": "Vehmaa",
+        "en": "Vehmaa",
+        "valid": true
+    },
+    {
+        "id": "921",
+        "fi": "Vesanto",
+        "sv": "Vesanto",
+        "en": "Vesanto",
+        "valid": true
+    },
+    {
+        "id": "922",
+        "fi": "Vesilahti",
+        "sv": "Vesilahti",
+        "en": "Vesilahti",
+        "valid": true
+    },
+    {
+        "id": "924",
+        "fi": "Veteli",
+        "sv": "Vetil",
+        "en": "Veteli",
+        "valid": true
+    },
+    {
+        "id": "925",
+        "fi": "Vierem\u00e4",
+        "sv": "Vierem\u00e4",
+        "en": "Vierem\u00e4",
+        "valid": true
+    },
+    {
+        "id": "927",
+        "fi": "Vihti",
+        "sv": "Vichtis",
+        "en": "Vihti",
+        "valid": true
+    },
+    {
+        "id": "931",
+        "fi": "Viitasaari",
+        "sv": "Viitasaari",
+        "en": "Viitasaari",
+        "valid": true
+    },
+    {
+        "id": "934",
+        "fi": "Vimpeli",
+        "sv": "Vimpeli",
+        "en": "Vimpeli",
+        "valid": true
+    },
+    {
+        "id": "935",
+        "fi": "Virolahti",
+        "sv": "Virolahti",
+        "en": "Virolahti",
+        "valid": true
+    },
+    {
+        "id": "936",
+        "fi": "Virrat",
+        "sv": "Virdois",
+        "en": "Virrat",
+        "valid": true
+    },
+    {
+        "id": "941",
+        "fi": "V\u00e5rd\u00f6",
+        "sv": "V\u00e5rd\u00f6",
+        "en": "V\u00e5rd\u00f6",
+        "valid": true
+    },
+    {
+        "id": "946",
+        "fi": "V\u00f6yri",
+        "sv": "V\u00f6r\u00e5",
+        "en": "V\u00f6r\u00e5",
+        "valid": true
+    },
+    {
+        "id": "976",
+        "fi": "Ylitornio",
+        "sv": "\u00d6vertorne\u00e5",
+        "en": "Ylitornio",
+        "valid": true
+    },
+    {
+        "id": "977",
+        "fi": "Ylivieska",
+        "sv": "Ylivieska",
+        "en": "Ylivieska",
+        "valid": true
+    },
+    {
+        "id": "980",
+        "fi": "Yl\u00f6j\u00e4rvi",
+        "sv": "Yl\u00f6j\u00e4rvi",
+        "en": "Yl\u00f6j\u00e4rvi",
+        "valid": true
+    },
+    {
+        "id": "981",
+        "fi": "Yp\u00e4j\u00e4",
+        "sv": "Yp\u00e4j\u00e4",
+        "en": "Yp\u00e4j\u00e4",
+        "valid": true
+    },
+    {
+        "id": "989",
+        "fi": "\u00c4ht\u00e4ri",
+        "sv": "Etseri",
+        "en": "\u00c4ht\u00e4ri",
+        "valid": true
+    },
+    {
+        "id": "992",
+        "fi": "\u00c4\u00e4nekoski",
+        "sv": "\u00c4\u00e4nekoski",
+        "en": "\u00c4\u00e4nekoski",
+        "valid": true
+    }
+]

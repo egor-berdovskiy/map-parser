@@ -1,0 +1,12 @@
+*/__pycache__/
+config.ini
+
+*/*.pyc
+*/*.log
+
+venv/
+
+*/*.geojson
+*/*.xlsx
+
+data/fi-real-estate-d1aacfe7628f.json
