@@ -130,7 +130,7 @@ def get_my_purchases(url):
     with open('data/json/purchases_link.json', 'w') as outfile:
         outfile.write(json_purchases)
 
-    return json_purchases
+    return links
 
 
 def download_my_products(my_purchases):
@@ -138,7 +138,7 @@ def download_my_products(my_purchases):
     print('Downloading files!')
     for (i, product) in enumerate(my_purchases):
         response = requests.get(url=product['url'])
-        with open(f"data/raw/trash/{product['name']}.gpkg", 'wb') as file:
+        with open(f"data/raw/topographic_db/{product['name']}.gpkg", 'wb') as file:
             file.write(response.content)
         print(f'{i}/{len(my_purchases)} File {product["name"]}.gpkg saved.')
 
