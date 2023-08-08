@@ -14,12 +14,6 @@ import time
 
 
 def get_municipalities():
-    # Можно упросить
-    municipalities = get_municipalities()
-
-    array = [{'id': i['id'], 'en': i['en']} for i in municipalities]  # Общий список из 309 муниципалитетов
-    mun10 = [array[i:i+10] for i in range(0, len(array), 10)]  # Список по 10 муниципалитетов
-
     response = requests.get('https://asiointi.maanmittauslaitos.fi/karttapaikka/api/spatialDataFiles/products')
     response = response.json()['kiinteistorekisterikartta_vektori']['municipalities']
     json_municipalities = json.dumps(response, indent=4)
@@ -111,10 +105,11 @@ def order(email: str, municipalities):
     )
 
 
-def get_my_purchases():
+def get_my_purchases(url):
     '''Получить список ваших покупок'''
     # Необходимо подождать пока в чеке загрузятся ваши карты, и потом уже вызывать эту функцию, это может занять время!
-    response = requests.get('https://asiointi.maanmittauslaitos.fi/lataukset/api/spatialdatafilesorders/8aa5042f898eec620189b7911ab60923').json()['files']
+    # Пример ссылки на страницу загрузки: https://asiointi.maanmittauslaitos.fi/lataukset/api/spatialdatafilesorders/8aa5042f898eec620189b7911ab60923
+    response = requests.get(url).json()['files']
 
     links = []
 
@@ -243,3 +238,48 @@ def to_latlon(coordinates, log=False):
         return 'error'
 
     return f'{lat} {lon}'
+
+def format_address(raw_address):
+    try:
+        address = eval(raw_address)
+    except Exception as ex:
+        print(f'error: {ex}')
+
+    # Get type
+    building_type = None
+    try:
+        building_type = address['features'][0]['properties']['type']
+    except:
+        return None
+    
+    # Get values
+    street = f"{address['features'][0]['properties']['street']} " if 'street' in address['features'][0]['properties'].keys() else ''
+    name = f"{address['features'][0]['properties']['name']} " if 'name' in address['features'][0]['properties'].keys() else ''
+    housenumber = f"{address['features'][0]['properties']['housenumber']}, " if 'housenumber' in address['features'][0]['properties'].keys() else ''
+    postcode = f"{address['features'][0]['properties']['postcode']}, " if 'postcode' in address['features'][0]['properties'].keys() else ''
+    city = f"{address['features'][0]['properties']['city']}" if 'city' in address['features'][0]['properties'].keys() else ''
+
+    if building_type == 'house':
+        return f'{street}{name}{housenumber}{postcode}{city}'
+    if building_type == 'locality':
+        osm_value = f"{address['features'][0]['properties']['osm_value']}, " if 'osm_value' in address['features'][0]['properties'].keys() else ''
+        country = f"{address['features'][0]['properties']['country']}" if 'country' in address['features'][0]['properties'].keys() else ''
+        return f'{name}{osm_value}{country}'
+    if building_type == 'street':
+        return f"{street}{name}{postcode}{city}"
+    if building_type == 'district':
+        district = f"{address['features'][0]['properties']['district']}" if 'district' in address['features'][0]['properties'].keys() else ''
+    else:
+        return None
+
+def get_type(raw_address):
+    try:
+        address = eval(raw_address)
+    except Exception as ex:
+        print(f'error: {ex}')
+
+    try:
+        building_type = address['features'][0]['properties']['type']
+        return building_type
+    except:
+        return None

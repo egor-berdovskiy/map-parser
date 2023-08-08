@@ -8,5 +8,6 @@ venv/
 
 */*.geojson
 */*.xlsx
+*/*.gpkg
 
 data/fi-real-estate-d1aacfe7628f.json
