@@ -130,7 +130,7 @@ def get_my_purchases(url):
     with open('data/json/purchases_link.json', 'w') as outfile:
         outfile.write(json_purchases)
 
-    return links
+    return json_purchases
 
 
 def download_my_products(my_purchases):
