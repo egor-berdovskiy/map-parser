@@ -1,4 +1,4 @@
-from .functions import get_layer, to_geojson
+from functions import get_layer, to_geojson
 from data.config import General
 
 

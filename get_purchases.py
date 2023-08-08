@@ -1,4 +1,4 @@
-from .functions import get_my_purchases, download_my_products
+from functions import get_my_purchases, download_my_products
 from data.config import General
 
 

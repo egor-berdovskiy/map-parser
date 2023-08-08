@@ -2,7 +2,7 @@ from configparser import ConfigParser
 
 
 parser = ConfigParser()
-parser.read(r'../config.ini')
+parser.read(r'config.ini')
 
 
 class General:

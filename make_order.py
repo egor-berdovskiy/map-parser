@@ -1,4 +1,4 @@
-from .functions import get_municipalities, order
+from functions import get_municipalities, order
 from data.config import General
 
 

@@ -1,4 +1,4 @@
-from .functions import format_address
+from functions import format_address
 from data.config import General
 
 import os
