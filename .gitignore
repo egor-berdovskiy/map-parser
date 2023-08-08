@@ -6,12 +6,4 @@ config.ini
 
 venv/
 
-*/*.geojson
-*/*.xlsx
-*/*.gpkg
-
-*.geojson
-*.xlsx
-*.gpkg
-*.json
 
